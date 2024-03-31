@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191876170319",
+    "project_id": "onlienshop-e51de",
+    "storage_bucket": "onlienshop-e51de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191876170319:android:87646928445689023b203a",
+        "android_client_info": {
+          "package_name": "com.example.onlineshopcatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCcQR6Lz9Jq75DnrpZeMZQwZmeawhR_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
