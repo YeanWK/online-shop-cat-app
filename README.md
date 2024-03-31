@@ -1,16 +1,9 @@
-# onlineshopcatapp
+### onlineshopcatapp
 
-A new Flutter project.
+แอพพลิเคชันสำหรับขายสินค้าของใช้แมว
 
-## Getting Started
+#ตัวอย่าง
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/YeanWK/online-shop-cat-app/assets/163988007/429a2ba7-b114-4edd-b526-1abbdfe88100)
+![2](https://github.com/YeanWK/online-shop-cat-app/assets/163988007/913183af-a579-4d29-b58c-4ff031982e20)
+![3](https://github.com/YeanWK/online-shop-cat-app/assets/163988007/2d2d8a81-5570-4fa1-b039-64b86a410310)
